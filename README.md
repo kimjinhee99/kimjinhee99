@@ -1,11 +1,11 @@
 ## 👋 Hello 👋
 
-JinHee Kim
-1999.09.23
+####JinHee Kim
+####1999.09.23
 
 🍀 차근차근히 배워나가는 신입 웹 퍼블리셔 김진희입니다 :)
 
-🛠 My Skill 
+### 🛠 My Skill 
 
 <a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff"/>
