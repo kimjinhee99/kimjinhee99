@@ -1,6 +1,14 @@
 ## 👋 Hello 👋
 
-😎My Name Is JinHee Kim!
+JinHee Kim
+1999.09.23
+
+✨차근차근히 배워나가는 신입 웹 퍼블리셔
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/dsf-#31A8FF?style=flat-square&logo=Adobe Photoshop
+&logoColor=fff"/>
+</a>
 
 <!--
 **kimjinhee99/kimjinhee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
