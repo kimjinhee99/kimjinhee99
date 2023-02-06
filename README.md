@@ -7,7 +7,7 @@
 
 ### 🛠 My Skill 
 
-<a href="https://www.instagram.com/" target="_blank">
+### <a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=ffffff"/>
 </a>
 <a href="https://www.instagram.com/" target="_blank">
