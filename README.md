@@ -1,7 +1,6 @@
-👋 Hello 👋
-=============
+## 👋 Hello 👋
 
-### 😎My Name Is JinHee Kim!
+# 😎My Name Is JinHee Kim!
 
 <!--
 **kimjinhee99/kimjinhee99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
