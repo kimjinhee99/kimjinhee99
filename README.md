@@ -6,7 +6,10 @@ JinHee Kim
 ✨차근차근히 배워나가는 신입 웹 퍼블리셔
 
 <a href="https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=E4405F"/>
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instagram&logoColor=E4405F"/>
+</a>
+<a href=# target="_blank">
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=Gmail&logoColor=EA4335"/>
 </a>
 
 <!--
