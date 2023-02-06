@@ -23,15 +23,13 @@ JinHee Kim
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Adobe JavaScript&logoColor=ffffff"/>
 </a>
    
-   
-   
-🍋
+🍋 About
 
 <a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=ffffff"/>
 </a>
 <a href=# target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.Ru&logoColor=ffffff"/>
 </a>
 
 <!--
