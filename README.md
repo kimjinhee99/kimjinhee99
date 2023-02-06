@@ -5,7 +5,6 @@ JinHee Kim
 
 🍀 차근차근히 배워나가는 신입 웹 퍼블리셔 김진희입니다 :)
 
-
 🛠 My Skill 
 
 <a href="https://www.instagram.com/" target="_blank">
